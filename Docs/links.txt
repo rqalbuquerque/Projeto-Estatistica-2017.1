@@ -1,0 +1,22 @@
+- Links uteis
+	
+	- One-way ANOVA test
+	- https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide.php
+	
+	- Friedman test
+	- https://statistics.laerd.com/spss-tutorials/friedman-test-using-spss-statistics.php
+	
+	- Apostila - Estatística utilizando R
+	- https://cran.r-project.org/doc/contrib/Itano-descriptive-stats.pdf
+	
+	- Anova utilizando R
+	-http://www.gardenersown.co.uk/education/lectures/r/anova.htm
+	
+	- Using R for statistical analyses - Introduction
+	- http://www.gardenersown.co.uk/education/lectures/r/index.htm#data_files
+	
+	- TESTE DE IGUALDADE DAS VARIÂNCIAS
+	- http://www.portalaction.com.br/anova/161-teste-de-igualdade-das-variancias
+	
+	- TESTE DE LEVENE PARA ANÁLISE DE RESISTÊNCIA DA FIBRA 
+	- http://www.portalaction.com.br/en/node/2034

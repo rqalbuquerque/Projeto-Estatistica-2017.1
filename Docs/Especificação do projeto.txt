@@ -1,0 +1,55 @@
+Especificação do Projeto
+Princípios e Técnicas da Análise Estatística Experimental – in1119
+
+1.     Sobre o projeto
+
+No projeto da disciplina de Estatística deve-se fazer o estudo de um problema, utilizando para isso o(s) conjunto(s) de dados que faz(em) parte do problema, o conhecimento obtido em sala de aula e a linguagemR. Esse(s) conjunto(s) não pode(m) ser retirado(s) de repositórios como o da UCI e, caso pertençam a terceiros, uma autorização de uso e divulgação deve ser solicitada. O problema estudado deve ter ligação com a área de estudo dos membros do grupo.
+
+Não é recomendável fazer o projeto individualmente, os grupos podem ser formados por 3 +1.
+
+Os grupos devem ter 3 membros e os problemas e bases dos grupos não podem ser iguais. Todas as tarefas envolvendo cálculos e processamento de dados deverão ser feitos utilizando a linguagem R – incluindo geração de gráficos e leitura de tabelas. Não haverá nenhuma restrição quanto à utilização da linguagem – qualquer função pode ser utilizada. Os scripts feitos em R deverão ser enviados juntamente com o relatório e apresentação. Os grupos poderão ficar à vontade para organizar os scripts e as funções como quiserem, desde que fiquem legíveis para análise e correção posterior.
+
+2.     Organização dos projetos
+
+O projeto é dividido em duas partes:
+
+·         Relatório - documento que contém os resultados da análise ea descrição do problema.
+·         Apresentação - apresentação em sala de aula do projeto, com o auxílio de slides.
+2.1.           Relatório
+
+O relatório deverá ser composto por:
+
+•       Passo 1 – Justificativa: De início, explicitam-se os motivos que justificam a pesquisa, determinando-se e delimitando-se o problema, o qual deve estar formulado de maneira clara e precisa.
+•       Passo 2 - Fundamentação teórica: Descreve-se  o relacionamento do problema com a teoria que será utilizada na pesquisa.
+•       Passo 3 - Objetivo da pesquisa: Os objetivos devem ser retirados diretamente dos problemas levantados no Passo 2. Define-se o que se pretende alcançar com a realização do trabalho.
+•       Passo 4 - Especificação da amostra: Deve-se determinar a área de execução da pesquisa, a população a ser investigada, o tipo de amostra e a determinação do seu tamanho, bem como o tipo de amostragem a ser utilizado. Define-se as variáveis envolvidas.
+•       Passo 5– Análise exploratória: Fazer um estudo descritivo dos dados (gráficos e medidas).  Verificar normalidade dos dados e potenciais pontos aberrantes.
+•       Passo 6– Metodologia (Formulação das hipóteses): Estabelecem-se as hipóteses que serão formuladas, as quais devem ser claras e precisas. Define-se o problema estatisticamente, decidindo-se que informação estatística é realmente necessária e qual método que será aplicado.   
+•       Passo 7 - Análise dos resultados: Passa-se ao tratamento dos dados por intermédio dos testes estatísticos, os quais dependem das hipóteses que serão testadas. Nesse tópico, é exigido que sejam aplicados testes de hipóteses paramétricos e/ou não paramétricos. Testes de duas amostras são exigidos, quando comparando abordagens.
+•       Observações importantes:os passos de 1 a 7 são obrigatórios e a escolha da metodologia a ser aplicada não se limita ao que foi ministrado no curso.  Os alunos podem fazer uso de alguma técnica que não foi apresentada, por exemplo, ANOVA.
+ 
+O relatório pode ser redigido utilizando Latex (classe article) ou o estilo padrão do Word, com as fontes Calibri, Times New Roman ou similares, usando tamanhos 11 ou 12. O relatório deve ser entregue no dia da apresentação e deve ter no máximo6 páginas. Uma proposta do projeto deve ser submetida até o dia 12/06 para o e-mail tmsf@cin.ufpe.br, para que o monitor Telmo possa pré-avaliar o projeto.
+
+2.2.           Apresentação
+
+A apresentação deve ter uma duração de 15 minutos, deve ser sucinta, mas dar uma visão geral do projeto  deverá conter:
+
+v  Descrição do problema e da respectiva base de dados;
+v  Objetivo do trabalho;
+v  Metodologia utilizada;
+v  Resultados;
+v  Conclusão. 
+Todos os membros da equipe devem estar presentes no dia da apresentação. Os projetos serão apresentados nos dias 01/07/2015 (quarta-feira) e 03/07/2015 (sexta-feira), em horário de aula, sendo a ordem dos grupos definida previamente pela professora. A ausência não justificada de algum integrante poderá implicar na perda de pontuação sobre a nota final do projeto do integrante em questão.
+
+3.     Avaliação
+
+O projeto vale 40% da nota da disciplina.
+
+4.     Dúvidas
+
+Dúvidas sobre os projetos podem ser tiradas com os monitores através dos e-mails:
+
+•       monitoriaestatistica@googlegroups.com (lista da monitoria)
+•       in1119-l@cin.ufpe.br (lista da turma)
+
+Solicitação para mudança de equipe e/ou de tema devem ser enviadas exclusivamente para monitoriaestatistica@googlegroups.com. 
