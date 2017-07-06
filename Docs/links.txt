@@ -1,5 +1,8 @@
 - Links uteis
 	
+	- various testes
+	- http://www.itl.nist.gov/div898/handbook/eda/section3/eda35.htm
+	
 	- One-way ANOVA test
 	- https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide.php
 	
@@ -10,7 +13,7 @@
 	- https://cran.r-project.org/doc/contrib/Itano-descriptive-stats.pdf
 	
 	- Anova utilizando R
-	-http://www.gardenersown.co.uk/education/lectures/r/anova.htm
+	- http://www.gardenersown.co.uk/education/lectures/r/anova.htm
 	
 	- Using R for statistical analyses - Introduction
 	- http://www.gardenersown.co.uk/education/lectures/r/index.htm#data_files
@@ -20,3 +23,28 @@
 	
 	- TESTE DE LEVENE PARA ANÁLISE DE RESISTÊNCIA DA FIBRA 
 	- http://www.portalaction.com.br/en/node/2034
+	
+	- Kruskal–Wallis test
+	- http://www.biostathandbook.com/kruskalwallis.html
+	- http://rcompanion.org/rcompanion/d_06.html
+	- https://statistics.laerd.com/spss-tutorials/kruskal-wallis-h-test-using-spss-statistics.php
+	- http://www.mathcracker.com/kruskal-wallis.php
+	
+	- Levene Test for Equality of Variances
+	- http://www.itl.nist.gov/div898/handbook/eda/section3/eda35a.htm
+	
+	- t-tests
+	- http://statistics.berkeley.edu/computing/r-t-tests
+	
+	- online kruskal-wallis e dunn test
+	- http://astatsa.com/KruskalWallisTest/Result/
+	- http://scistatcalc.blogspot.com.br/2013/12/levenes-test-equality-of-variances.html#
+	
+	- Dunn test
+	- https://cran.r-project.org/web/packages/dunn.test/dunn.test.pdf
+	
+	- welch test
+	- https://en.wikipedia.org/wiki/Welch%27s_t-test
+	
+	- Games-Howell test
+	- Pairwise Pairwise Multiple Multiple Comparison Comparison Procedures Procedures with Unequal Unequal N‘s and/orVariances: A Monte Carlo Study
